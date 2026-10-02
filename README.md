@@ -97,21 +97,41 @@
 
 <!-- PROJECTS INVENTORY -->
 <div align="center">
-  <h3 style="color: #00FFFF;">📌 PROJECTS</h3>
+  <h3 style="color: #00FFFF;" id="-project-inventory">📌 PROJECTS</h3>
   
-  <a href="https://github.com/krtx17/ContriFlow">
-    <img src="contriflow_banner.jpg" width="80%" alt="ContriFlow" style="border-radius: 10px;">
-  </a>
-  <br><br>
-  
-  <a href="https://github.com/krtx17/Portfolio">
-    <img src="portfolio_banner.jpg" width="80%" alt="Portfolio" style="border-radius: 10px;">
-  </a>
-  <br><br>
-  
-  <a href="https://github.com/krtx17/Traxion">
-    <img src="traxion_banner.jpg" width="80%" alt="Traxion" style="border-radius: 10px;">
-  </a>
+  <table border="0" cellspacing="10" cellpadding="0" width="95%" style="border-collapse: collapse;">
+    <tr>
+      <td width="50%" align="center" valign="middle">
+        <a href="https://github.com/krtx17/ContriFlow">
+          <img src="contriflow_banner.jpg" width="100%" alt="ContriFlow" style="border-radius: 10px;">
+        </a>
+      </td>
+      <td width="50%" align="center" valign="middle">
+        <a href="https://github.com/krtx17/Portfolio">
+          <img src="portfolio_banner.jpg" width="100%" alt="Portfolio" style="border-radius: 10px;">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center" valign="middle">
+        <a href="https://github.com/krtx17/Traxion">
+          <img src="traxion_banner.jpg" width="100%" alt="Traxion" style="border-radius: 10px;">
+        </a>
+      </td>
+      <td width="50%" align="center" valign="middle">
+        <a href="https://github.com/krtx17/Solar_Sense">
+          <img src="solarsense_banner.jpg" width="100%" alt="SolarSense AI" style="border-radius: 10px;">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center" valign="middle">
+        <a href="https://github.com/krtx17/Thermo_Shield_AI">
+          <img src="thermo_shield_banner.jpg" width="50%" alt="Thermo Shield AI" style="border-radius: 10px;">
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
@@ -186,7 +206,7 @@
   <h3 style="color: #00FFFF;">🏆 ACHIEVEMENT WALL</h3>
   <table border="1" bordercolor="#00FFFF" cellpadding="15" width="90%" style="background-color: #0d1117; text-align: left;">
     <tr>
-      <td>🏆 <b>Hackathon Winner</b> — 3rd Place @ AgentathonX 2026 (National AI Hackathon); 6th Place @ Viveka Hackathon</td>
+      <td>🏆 <b>Hackathon Finalist &amp; Winner</b> — Finalist @ Smart India Hackathon (SIH) 2026; 3rd Place @ AgentathonX 2026 (National AI Hackathon); 6th Place @ Viveka Hackathon</td>
     </tr>
     <tr>
       <td>🤖 <b>Projects Completed</b> — 5+ live full-stack and AI projects deployed to production on Hugging Face Spaces</td>
